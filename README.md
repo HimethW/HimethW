@@ -16,7 +16,10 @@ I'm currently working on Building a VS Code plugin for visualizing and executing
 ![](https://github-profile-trophy.vercel.app/?username=HimethW&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HimethW&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=HimethW&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=1800)
+
+## 📈 Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimethW&theme=react-dark&hide_border=true)](https://github.com/HimethW)
 
 ---
-[![](https://komarev.com/ghpvc/?username=HimethW&icon=0&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=HimethW&label=Profile%20Views&color=blueviolet&style=flat)
